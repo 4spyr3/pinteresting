@@ -1,6 +1,5 @@
 # One Month Rails
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+This is the pinteresting sample application using Ruby on Rails
 
-by [Mattan Griffel](http://mattangriffel.com)
+Follow me on Twitter(http://www.twitter.com/kenw92)
